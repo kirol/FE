@@ -1,0 +1,16 @@
+
+Overview
+VisualParadigm is a UML software design tool.  In conjunction with Teamwork Server, an all-in-one proprietary management and revision control system, VisualParadigm provides a design utility, round-trip code engineering, a centralized UML revision control system, visual diffs, and more. 
+
+Installation
+    Download the Visual Paradigm 11.2
+    Be sure to specify "Standard Edition" when prompted by the installation wizard
+    Read the VisualParadigm installation guide for instructions on configuring the floating license server.
+
+Account Creation
+If an account has not already been provided to you, please submit a JIRA ticket requesting that a VisualParadigm account be created for you.
+
+Things to Know
+    Leaving Visual Paradigm open when not in use consumes a floating license and may prevent others from using Visual Paradigm.
+    Leaving the "commit" dialog window open prevents other users on a particular project from committing changes.
+    Some users have experienced workspace loss on their corporate laptops using Windows, which loses saved but not committed progress.  Commit often.
