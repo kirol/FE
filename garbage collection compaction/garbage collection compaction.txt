@@ -1,0 +1,1 @@
+Garbage collection (Compaction): It means collecting empty memory areas to form a continuous area.
