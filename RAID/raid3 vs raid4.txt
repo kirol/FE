@@ -1,0 +1,4 @@
+RAID3 consists of byte-level striping with a dedicated parity disk
+RAID4 consists of block-level striping with a dedicated parity disk
+
+RAID2, RAID3 are rarely used in practice
